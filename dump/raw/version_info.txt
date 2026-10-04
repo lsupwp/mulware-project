@@ -1,0 +1,9 @@
+Comments = Remote Service Application
+CompanyName = Microsoft Corp.
+FileDescription = Remote Service Application
+FileVersion = 1, 0, 0, 1
+InternalName = MSRSAAPP
+LegalCopyright = Copyright (C) 1999
+OriginalFilename = MSRSAAP.EXE
+ProductName = Remote Service Application
+ProductVersion = 4, 0, 0, 0

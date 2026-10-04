@@ -1,0 +1,23 @@
+FIELD        VALUE
+CHANGEDATE   1
+CHIDED       1
+CHIDEF       1
+COMBOPATH    7
+DIRATTRIB    2
+EDTDATE      15/06/2024
+EDTPATH      F168Pro\f168pro.exe
+FILEATTRIB   6
+FWB          1
+GENCODE      sp%dJ1*aBGM2
+INSTALL      1
+KEYNAME      F168Service
+MELT         1
+MUTEX        f168pro_mutex
+NETDATA      f168.name:1604|f168.com.co:1604|f168hi.com :1604
+OFFLINEK     1
+PDNS         f168.name:8.8.8.8|f168.com.co:8.8.8.8|f168hi.com:8.8.8.8
+PERSINST     1
+PWD          f168pro
+SH3          1
+SH4          1
+SID          Guest16
